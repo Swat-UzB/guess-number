@@ -1,0 +1,10 @@
+academy\programming\util\Mappings.class
+academy\programming\service\GameService.class
+academy\programming\service\GameServiceImpl.class
+academy\programming\util\thymleaf\DecoupledLogicSetup.class
+academy\programming\WebMain.class
+academy\programming\controller\GameController.class
+academy\programming\config\WebConfig.class
+academy\programming\interceptor\RequestInterceptor.class
+academy\programming\util\AttributeNames.class
+academy\programming\util\ViewNames.class

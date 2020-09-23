@@ -1,0 +1,6 @@
+<thlogic>
+    <attr sel="#footerId"
+          th:fragment="footerFragment"/>
+    <attr sel="#footer"
+          th:text="|#{footer} Zayniddinov Ilyos|"/>
+</thlogic>
